@@ -3,6 +3,5 @@ pandas==2.2.0
 streamlit
 pip==24.0
 Pillow
-streamlit-option-menu
 python-math
 openpyxl
